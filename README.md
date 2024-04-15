@@ -10,7 +10,8 @@ A console based project of my Data Structures Course using C++.
 ![ss2](https://github.com/SidrahMalik/Text-Editor-/assets/158201665/10bdd7df-25c7-4b67-a907-6be8b66e68ca)
 
 <br>
-# Options
+
+# Options Like
 <br>
 # Add Text
 <br>
